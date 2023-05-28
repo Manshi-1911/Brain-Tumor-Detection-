@@ -1,6 +1,2 @@
-Necessary Modules will be imported
-Data Preparation & Preprocessing
-Load up the data
-
-
-
+Brain Tumor Detection Using a Convolutional Neural Network
+Data Preparation and Processing 
